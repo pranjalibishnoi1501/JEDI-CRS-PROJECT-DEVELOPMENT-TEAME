@@ -1,0 +1,9 @@
+module:CRS_JEDI_JAVA_PROJECT_POS
+com.flipkart.bean
+com.flipkart.business
+com.flipkart.client
+com.flipkart.constant
+com.flipkart.dao
+com.flipkart.exception
+com.flipkart.utils
+com.flipkart.validator
